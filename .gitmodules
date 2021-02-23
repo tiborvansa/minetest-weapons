@@ -1,0 +1,15 @@
+[submodule "fort_spikes"]
+	path = fort_spikes
+	url = https://gitlab.com/rautars/fort_spikes.git
+[submodule "cannons"]
+	path = cannons
+	url = https://bitbucket.org/kingarthursteam/cannons.git
+[submodule "spears"]
+	path = spears
+	url = https://gitlab.com/echoes91/spears.git
+[submodule "spykes"]
+	path = spykes
+	url = https://github.com/tiborvansa/minetest-spykes.git
+[submodule "extra_mele_weapons"]
+	path = extra_mele_weapons
+	url = https://github.com/tiborvansa/minetest-extra_mele_weapons.git
